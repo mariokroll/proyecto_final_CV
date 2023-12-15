@@ -9,5 +9,5 @@ Con las imágenes obtenidas en get_images.py, obtiene los parámetros extrínsec
 ## vFinal.py
 Script principal que controla el detector de secuencias y el tracker.
 
-## AplicacionesII.zip
+## AplicacionesII.rar
 Contiene una serie de scripts y datos acerca de la detección de números explicada en el informe.
